@@ -26,7 +26,7 @@ let resumeData = {
   aboutme:
     "I’m a aspiring software engineer specializing in building websites from scratch and implementing new features and digital experiences. Currently, I’m focused on building accessible, userfriendly, smooth websites and developing new skills around web3 technologies.",
   address: " Big Bazaar Street Paramakudi Ramanathapuram District",
-  website: "https://github.com/Shyamprakash01",
+  website: "https://github.com/Shyamprakash01z",
   Mail: "pshyam506@gmail.com shyamprakashtn63@gmail.com",
   education: [
     {
