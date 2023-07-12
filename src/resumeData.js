@@ -14,7 +14,7 @@ let resumeData = {
     },
     {
       name: "github",
-      url: "http://github.com/rbhatia46",
+      url: "https://github.com/Shyamprakash01",
       className: "fa fa-github",
     },
     {
@@ -26,18 +26,18 @@ let resumeData = {
   aboutme:
     "I’m a aspiring software engineer specializing in building websites from scratch and implementing new features and digital experiences. Currently, I’m focused on building accessible, userfriendly, smooth websites and developing new skills around web3 technologies.",
   address: " Big Bazaar Street Paramakudi Ramanathapuram District",
-  website: "https://rbhatia46.github.io",
+  website: "https://github.com/Shyamprakash01",
   Mail: "pshyam506@gmail.com shyamprakashtn63@gmail.com",
   education: [
     {
-      UniversityName: "Alagappa University",
+      UniversityName: "Alagappa University-Karaikudi",
       specialization: "Master of Science in Computer Science",
       MonthOfPassing: "Aug 2020",
       YearOfPassing: "June 2022",
-      Description: "83.3%",
+      Description: " 83.3%",
     },
     {
-      UniversityName: "Alagappa University",
+      UniversityName: "Alagappa University-Karaikudi",
       specialization: "Bachelor of Science in Computer Science",
       MonthOfPassing: "July 2017",
       YearOfPassing: "May 2020",
