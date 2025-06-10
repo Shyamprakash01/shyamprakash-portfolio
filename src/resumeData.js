@@ -18,9 +18,14 @@ let resumeData = {
       className: "fa fa-github",
     },
     // {
+    //   name: "teams",
+    //   url: "https://github.com/Shyamprakash01",
+    //   className: "fab fa-microsoft",
+    // },
+    // {
     //   name: "instagram",
     //   url: "https://www.instagram.com/sam_snoopy_____/",
-    //   className: "fa fa-instagram",
+    //   className: "fa fa-naukri",
     // },
   ],
   aboutme:
@@ -83,7 +88,7 @@ let resumeData = {
 
   skills: [
     {
-      skillname: "HTML5",
+      skillname: "HTML",
     },
     {
       skillname: "CSS",
@@ -92,14 +97,17 @@ let resumeData = {
       skillname: "JavaScript",
     },
     {
-      skillname: "Reactjs and ReactNative",
+      skillname: "Reactjs",
     },
     {
-      skillname: "Asp.Net,C#,MVC",
+      skillname: "ReactNative",
     },
-    {
-      skillname: "MySql,Sqlite,Online and Offline Database",
-    },
+    // {
+    //   skillname: "Asp.Net,C#,MVC",
+    // },
+    // {
+    //   skillname: "MySql,Sqlite,Online and Offline Database",
+    // },
   ],
   // portfolio: [
   //   {
