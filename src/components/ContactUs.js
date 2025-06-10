@@ -20,6 +20,8 @@ export default class ContactUs extends Component {
                 Linked in :
                 https://www.linkedin.com/in/shyam-prakash-a3025b237 
               </h4>
+              <h4>Contact Me : {resumeData.Contact}</h4>
+
               <h4>Mail Me : {resumeData.Mail}</h4>
             </div>
           </aside>
